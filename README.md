@@ -1,7 +1,4 @@
 # rush-monorepo-demo
-# Enterprise Key Connect (EKC)
-
-Make use of existing key infrastructure in Energy Web products and services.
 
 ## Quick Start
 
