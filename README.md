@@ -5,25 +5,11 @@ Make use of existing key infrastructure in Energy Web products and services.
 
 ## Quick Start
 
->note: not publshed yet!
-
-```
-npm install @energyweb/ekc
-```
-
-## Example Integrations
-
-See [examples](./examples)
-
 ## API
 
 TODO
 
 ## Development
-
-```
-git clone git@github.com:energywebfoundation/ekc-monorepo.git
-```
 
 Before anything else, install [Rush](https://rushjs.io) globally:
 ```
